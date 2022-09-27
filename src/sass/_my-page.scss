@@ -1,0 +1,21 @@
+.box {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    background-color: rgb(213, 146, 23);
+    border: 2px solid rgb(53, 24, 99);
+    border-radius: 5px;
+    margin: 0 auto; 
+}
+.timer {
+    display: flex;
+    margin: 50 auto;
+    align-items: center;
+}
+.timer__items {
+    display: flex;   
+}
+.timer__item {
+    font-size: 30px;
+    background-color: rgb(232, 215, 152);
+}
